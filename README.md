@@ -35,7 +35,7 @@ Users should be able to:
 
 [Live](https://mendez-v.github.io/huddle-introductory-section/) 👀
 
-<!-- [Frontend Mentor](https://your-live-site-url.com) 👀 -->
+[Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-7bjF_nFwhT) 👀
 
 ## Built with
 
