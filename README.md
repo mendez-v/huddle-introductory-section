@@ -33,9 +33,11 @@ Users should be able to:
 
 ## Links
 
-[Live](https://mendez-v.github.io/huddle-introductory-section/) 👀
+[Live Site](https://mendez-v.github.io/huddle-introductory-section/) 👀
 
-[Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-7bjF_nFwhT) 👀
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-7bjF_nFwhT) 👀
+
+[Challenge Repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## Built with
 
